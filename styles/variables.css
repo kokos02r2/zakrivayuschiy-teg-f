@@ -1,14 +1,15 @@
 :root {
     --main-font: 'Inter-Variable', sans-serif;
-    --accent-font: 'PressStart2P', sans-serif;
+    --accent-font: 'PressStart2P', fantasy;
     --accent-color: #000;
     --text-font-weight: 400;
     --title-font-weight: 700;
     --border: 2px solid #000;
     --header-content-width: clamp(375px, 48.7%, 700px);
     --background-color: #fff;
+    --background-light-color: #e7e7e7;
+    --background-dark-color: #1a1a1a;
     --background-image-lines: #d3d3d3;
-    --background-image: #e7e7e7, #1a1a1a;
     --btn-text-color: #fff;
     --floppy-color: #000;
     --highlight-color: #000;
